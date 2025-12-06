@@ -1,0 +1,36 @@
+# IDE
+.idea/
+*.iml
+*.iws
+out/
+
+# IntelliJ specific
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/usage.statistics.xml
+/.idea/dictionaries
+/.idea/vcs.xml
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+gradle-app.setting
+
+# Log, env, OS
+*.log
+*.tmp
+*.env
+*.keystore
+.DS_Store
+Thumbs.db
+
